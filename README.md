@@ -15,8 +15,7 @@ Computer Science and Engineering graduate specializing in Artificial Intelligenc
 - **Software engineering** — accessible mobile applications, automation pipelines, responsive frontend interfaces and interactive 3D web experiences.
 - **Currently exploring** — LLMs, retrieval-augmented generation, LangGraph and AI agents.
 
-## Technical stack
-
+## Technical Stack & Exposure
 **Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
