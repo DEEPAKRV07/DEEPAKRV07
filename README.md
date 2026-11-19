@@ -15,16 +15,6 @@ Computer Science and Engineering graduate specializing in Artificial Intelligenc
 - **Software engineering** — accessible mobile applications, automation pipelines, responsive frontend interfaces and interactive 3D web experiences.
 - **Currently exploring** — LLMs, retrieval-augmented generation, LangGraph and AI agents.
 
-## Featured engineering projects
-
-| Project | What it does |
-|:--|:--|
-| **[SightMate AI Assistant](https://github.com/DEEPAKRV07/SightMate-AI-Assistant)** | Accessible Android navigation prototype using on-device vision, obstacle detection, segmentation, OCR, voice feedback and Braille input. |
-| **[Football Analysis System](https://github.com/DEEPAKRV07/Football-Analysis-System)** | YOLOv8 + ByteTrack pipeline for player tracking, camera motion estimation, team classification and match analytics. |
-| **[Google Maps Lead Generator](https://github.com/DEEPAKRV07/Google-Maps-Lead-Generator)** | Python automation with resumable SQLite persistence, website enrichment, lead scoring and CRM exports. |
-| **[Neural Network Portfolio](https://github.com/DEEPAKRV07/portfolio-website-dedicated)** | Interactive Three.js personal portfolio inspired by neural networks. |
-| **[Gesture-Controlled Virtual Mouse](https://github.com/DEEPAKRV07/Virtual-Mouse-Controll)** | Real-time hand landmark detection and gesture-driven computer interaction. |
-
 ## Technical stack
 
 **Programming**
@@ -77,23 +67,6 @@ Computer Science and Engineering graduate specializing in Artificial Intelligenc
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-2563EB?style=flat-square)
 ![AI Agents](https://img.shields.io/badge/AI%20Agents-475569?style=flat-square)
-
-## Experience & education
-
-| Role | Organization | Period |
-|:--|:--|:--|
-| Computer Vision / AI R&D Intern | BOA XR | Sep–Oct 2026 |
-| Frontend Developer | FORCRUX | May–Jul 2026 |
-| Embedded Systems Intern | MSME, Guindy | Aug–Sep 2024 |
-
-**B.E. Computer Science and Engineering (AI/ML)** — S.A. Engineering College, 2022–2026.
-
-## GitHub activity
-
-<div align="center">
-  <a href="https://github.com/DEEPAKRV07"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=DEEPAKRV07&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics" /></a>
-  <a href="https://github.com/DEEPAKRV07?tab=repositories"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEEPAKRV07&layout=compact&theme=github_dark&hide_border=true" alt="Repository language distribution" /></a>
-</div>
 
 ---
 
